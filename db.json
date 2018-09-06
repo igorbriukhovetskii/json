@@ -1,0 +1,75 @@
+{
+  "cards":
+  [
+    {
+      "id": "12513",
+      "href": "",
+      "src": "/img/product/product-image2.jpg",
+      "date": "до 20 октября, осталось 3 дня",
+      "title": "Соус Mr.Ricco Тар-Тар с маринованным огурцом и ...",
+      "priceNew": "25",
+      "priceNewFloat": "99",
+      "priceOld": "42",
+      "priceOldFloat": "99",
+      "extra": false,
+      "expiring": true,
+      "priceRange": false
+    },
+    {
+      "id": "12512",
+      "href": "",
+      "src": "/img/product/product-image1.jpg",
+      "date": "до 15 апреля",
+      "title": "Чипсы 'Московский Картофель' со вкусом чизбургера 70г",
+      "priceNew": "24",
+      "priceNewFloat": "99",
+      "priceOld": "42",
+      "priceOldFloat": "99",
+      "extra": true,
+      "expiring": false,
+      " priceRange": false
+    },
+    {
+      "id": "12511",
+      "href": "",
+      "src": "/img/product/product-image1.jpg",
+      "date": "до 15 апреля",
+      "title": "Чипсы 'Московский Картофель' со вкусом чизбургера 70г",
+      "priceNew": "23",
+      "priceNewFloat": "99",
+      "priceOld": "42",
+      "priceOldFloat": "99",
+      "extra": true,
+      "expiring": false,
+      "priceRange": false
+    },
+    {
+      "id": "12514",
+      "href": "",
+      "src": "",
+      "date": "до 20 октября, осталось 3 дня",
+      "title": "Соус Mr.Ricco Тар-Тар с маринованным огурцом и ...",
+      "priceNew": "22",
+      "priceNewFloat": "99",
+      "priceOld": "42",
+      "priceOldFloat": "99",
+      "extra": false,
+      "expiring": true,
+      "priceRange": false
+    },
+    {
+      "id": "12515",
+      "href": "",
+      "src": "/img/product/product-image3.jpg",
+      "date": "до 25 апреля",
+      "title": "Колбаса 'Дымов' Сервелат варено-копченая 330г",
+      "priceNew": "21",
+      "priceNewFloat": "99",
+      "priceOld": "42",
+      "priceOldFloat": "99",
+      "extra": false,
+      "expiring": false,
+      "priceRange": true
+    }
+  ]
+}
